@@ -1,4 +1,4 @@
-# Resposive-Portfolio
+# Responsive-Portfolio
 
 # 📁 Personal Portfolio — Petros Sisay
 
@@ -16,6 +16,7 @@ A clean and modern personal portfolio webpage built using **only HTML & CSS** to
 * 🧠 Developer Profile
 * ⭐ Skills Overview
 * 💼 Projects Showcase
+* 💻 Getting Started
 * 📩 Contact
 
 ---
@@ -50,7 +51,7 @@ This is a **responsive portfolio website** built from scratch to present my prof
 ## 🧠 Developer Profile
 
 **Petros Sisay**
-Third-year Software Engineering student passionate about web development. I focus on creating dynamic, responsive, and user-friendly web interfaces. I enjoy exploring new technologies, solving coding challenges, and building projects that demonstrate both front-end and back-end capabilities.
+4th-year, 1st-semester Software Engineering student at Adama Science and Technology University (ASTU). Passionate about web development, I focus on creating dynamic, responsive, and user-friendly web interfaces. I enjoy exploring new technologies, solving coding challenges, and building projects that demonstrate both front-end and back-end capabilities.
 
 ---
 
@@ -68,6 +69,25 @@ I include a snapshot of my technical strengths here:
 ## 💼 Projects Showcase
 
 Some projects I’ve worked on are listed on the portfolio site in the Projects section. These demonstrate real-world work on websites and applications.
+
+---
+
+## 💻 Getting Started
+
+To view or work on this portfolio locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/petersisay/Responsive-Portfolio.git
+   ```
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd Responsive-Portfolio
+   ```
+
+3. **Open the project:**
+   Open `index.html` in any modern web browser, or launch it with a local static server (such as VS Code Live Server).
 
 ---
 
